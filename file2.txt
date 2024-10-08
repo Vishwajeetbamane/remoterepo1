@@ -4,5 +4,4 @@ second line
 third line
 =======
 fourth line
-fifth line
 >>>>>>> 8b12d7b0308ed0b1b8b0ee30523ece3e1f67cfb7
